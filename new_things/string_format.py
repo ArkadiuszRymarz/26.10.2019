@@ -12,3 +12,4 @@ Nazwisko = input("wpisz nazwisko")
 
 print("Twoje Imie",Name,"Twoje Nazwisko",Nazwisko)
 print(f"Twoje Imie {Name.capitalize()} Twpje Nazwisko {Nazwisko.capitalize()}")
+
